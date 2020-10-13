@@ -3,6 +3,7 @@ package com.sachin.entity;
 
 import lombok.*;
 
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
